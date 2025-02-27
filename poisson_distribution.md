@@ -1,2 +1,3 @@
 Poisson Distribution
 
+Type
